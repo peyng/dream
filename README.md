@@ -149,9 +149,9 @@ a.p:hover span {
 <a href="20190803_011.jpg" data-lightbox="abc"><img src="20190803_011.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20190803_012.jpg" data-lightbox="abc"><img src="20190803_012.jpg" alt="サンプル画像" width="900" /></a>
 <p>&#160;</p>
-<h2>スピーチ動画</h2>
-<a href="https://youtu.be/KES1T9H-YoE" target="_blank"><img src="20190802_013.jpg" alt="並木さん" width="450" /></a>
-<a href="https://youtu.be/-r8eR5OqDTM" target="_blank"><img src="20190802_014.jpg" alt="小林さん" width="450" /></a><br/>
+<h2>お隣の火事、YouTube動画</h2>
+<a href="https://youtu.be/SxMv_Imhi88" target="_blank"><img src="20190803_013.png" alt="裏通りから" width="450" /></a>
+<a href="https://youtu.be/RcqWXVnifGM" target="_blank"><img src="20190803_014.png" alt="大通りから" width="450" /></a><br/>
 
       <p>&#160;</p> <p>&#160;</p> <p>&#160;</p> <p>&#160;</p> <p>&#160;</p> <p>&#160;</p> <p>&#160;</p>
  <!--     <section>
